@@ -36,17 +36,28 @@
 //     console.log(i);
 // }
 
-let i = 2;
-while (i < 9) {
-    if (i == 3) {
-        i++;
-        continue;
-    } {
-        if (i == 5)
-            i++;
-            continue;
-        }
-    
-    console.log(i);
-    i++;
-}
+// let i = 2;
+// while (i < 9) {
+//     if (i == 3) {
+//         i++;
+//         continue;
+//     } if (i == 5) {
+//       i++;
+//       continue;
+//   }if (i == 7) {
+//     i++;
+//     continue;
+// }
+//     console.log(i);
+//     i++;
+// }
+
+ //Number Three:
+// let students = ["Dave", "Christine", "Haley"];
+// console.log(students[2]);
+// console.log(students[1]);
+// console.log(students[0]);
+
+ //Number Four:
+
+ //Extension:
