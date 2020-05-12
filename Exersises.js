@@ -53,11 +53,11 @@
 // }
 
  //Number Three:
-// let students = ["Dave", "Christine", "Haley"];
-// console.log(students[2]);
-// console.log(students[1]);
-// console.log(students[0]);
-
+ let students = ["Dave","Ariana","Christine","Haley","Annette"];
+ for (let i = students.length-1; i >= 0; i--){  
+     console.log(students[i]); 
+    }
+    
  //Number Four:
 
  //Extension:
