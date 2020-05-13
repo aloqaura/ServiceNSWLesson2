@@ -53,11 +53,12 @@
 // }
 
  //Number Three:
- let students = ["Dave","Ariana","Christine","Haley","Annette"];
- for (let i = students.length-1; i >= 0; i--){  
-     console.log(students[i]); 
-    }
-    
+//  let students = ["Dave","Ariana","Christine","Haley","Annette"];
+//  for (let i = students.length-1; i >= 0; i--){  
+//      console.log(students[i]); 
+//     }
+
  //Number Four:
+ 
 
  //Extension:
